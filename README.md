@@ -21,7 +21,7 @@ Mas não se preocupe, este é apenas um lembrete de que **precisamos estar sempr
 
 Veja o que acontece quando você clica sem verificar:
 
-[**Clique aqui**](https://www.seusitelegitimo.com) – **Atenção, você quase caiu no phishing!** 😱
+[**Clique aqui**](https://devjoseotavio.github.io/EvitePhishing/) – **Atenção, você quase caiu no phishing!** 😱
 
 ---
 
